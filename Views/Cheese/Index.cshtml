@@ -1,6 +1,14 @@
 <h1>My Cheeses</h1>
 <hr>
 
+<a asp-controller="Cheese" asp-action="Add">
+    <button>Add Cheese</button>
+</a>
+
+<a asp-controller="Cheese" asp-action="Remove">
+    <button>Remove Cheese</button>
+</a>
+
 @if(ViewBag.cheeses.Count == 0)
 {
     <p>No cheeses yet!</p>
@@ -14,7 +22,3 @@
         </li>
     }
 </ul>
-
-<a asp-controller="Cheese" asp-action="Add">
-    <button>Add Cheese</button>
-</a>

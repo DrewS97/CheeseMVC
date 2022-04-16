@@ -15619,6 +15619,11 @@
   "RootNamespace": "CheeseMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\drews\\gitprojects\\CheeseMVC\\Views\\Cheese\\Remove.cshtml",
+      "TargetPath": "Views\\Cheese\\Remove.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\drews\\gitprojects\\CheeseMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

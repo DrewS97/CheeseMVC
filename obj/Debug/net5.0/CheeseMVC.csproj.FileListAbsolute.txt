@@ -40,3 +40,4 @@ C:\Users\drews\gitprojects\CheeseMVC\obj\Debug\net5.0\CheeseMVC.pdb
 C:\Users\drews\gitprojects\CheeseMVC\obj\Debug\net5.0\CheeseMVC.genruntimeconfig.cache
 C:\Users\drews\gitprojects\CheeseMVC\obj\Debug\net5.0\CheeseMVC.csproj.CopyComplete
 C:\Users\drews\gitprojects\CheeseMVC\obj\Debug\net5.0\Razor\Views\Cheese\Add.cshtml.g.cs
+C:\Users\drews\gitprojects\CheeseMVC\obj\Debug\net5.0\Razor\Views\Cheese\Remove.cshtml.g.cs
