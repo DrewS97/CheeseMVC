@@ -73,3 +73,20 @@ body {
 hr{
   border-top: 3px solid black;
 }
+
+input[type="text"] {
+  display: block;
+  margin: 5px 0px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+
+input[type="submit"]{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}

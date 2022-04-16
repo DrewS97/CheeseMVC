@@ -1,4 +1,5 @@
 <h1>My Cheeses</h1>
+<hr>
 
 @if(ViewBag.cheeses.Count == 0)
 {
@@ -6,9 +7,11 @@
 }
 
 <ul>
-    @foreach(string cheese in ViewBag.cheeses)
+    @foreach(var cheese in ViewBag.cheeses)
     {
-        <li>@cheese</li>
+        <li>@cheese.Key
+            <p>Description: @cheese.Value</p>
+        </li>
     }
 </ul>
 
